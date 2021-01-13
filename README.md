@@ -1,2 +1,2 @@
 <img src="https://img.shields.io/badge/Using-Android-green"></img>
-<h1> Mostly Trying Some Languages </h1>
+<img src="https://img.shields.io/badge/Still%20a-Student-blue"></img>
